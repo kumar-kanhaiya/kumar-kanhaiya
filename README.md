@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-kanhaiya" alt="kumar-kanhaiya" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA DSA**
+- portfolio:- https://portfolio-sua7.vercel.app/
 
 - 📫 How to reach me **kanhaiyakumarmailme@gmail.com**
 
