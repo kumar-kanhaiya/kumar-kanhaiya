@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-kanhaiya" alt="kumar-kanhaiya" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA DSA**
+- 🌱 I’m currently learning **JAVA DSA , Spring Boot , Docker**
 
 
 - 📫 How to reach me **kanhaiyakumarmailme@gmail.com**
